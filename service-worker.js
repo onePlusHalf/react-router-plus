@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/onePlusHalf/react-router-plus/precache-manifest.54ffb73df0d9087e27e7659c9312b433.js"
+  "/onePlusHalf/react-router-plus/precache-manifest.028b5635f63abad9cf35750296f15efc.js"
 );
 
 self.addEventListener('message', (event) => {
