@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-router-plus/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react-router-plus/static/js/main.56dc1972.chunk.js",
-    "main.js.map": "/react-router-plus/static/js/main.56dc1972.chunk.js.map",
-    "runtime-main.js": "/react-router-plus/static/js/runtime-main.c201db24.js",
-    "runtime-main.js.map": "/react-router-plus/static/js/runtime-main.c201db24.js.map",
-    "static/js/2.fafc9c2b.chunk.js": "/react-router-plus/static/js/2.fafc9c2b.chunk.js",
-    "static/js/2.fafc9c2b.chunk.js.map": "/react-router-plus/static/js/2.fafc9c2b.chunk.js.map",
-    "index.html": "/react-router-plus/index.html",
-    "precache-manifest.c663732a3c0adff80b503e9cc35b4df5.js": "/react-router-plus/precache-manifest.c663732a3c0adff80b503e9cc35b4df5.js",
-    "service-worker.js": "/react-router-plus/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/react-router-plus/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.fafc9c2b.chunk.js.LICENSE.txt": "/react-router-plus/static/js/2.fafc9c2b.chunk.js.LICENSE.txt"
+    "main.css": "/onePlusHalf/react-router-plus/static/css/main.69eda509.chunk.css",
+    "main.js": "/onePlusHalf/react-router-plus/static/js/main.dacf3515.chunk.js",
+    "main.js.map": "/onePlusHalf/react-router-plus/static/js/main.dacf3515.chunk.js.map",
+    "runtime-main.js": "/onePlusHalf/react-router-plus/static/js/runtime-main.d5297837.js",
+    "runtime-main.js.map": "/onePlusHalf/react-router-plus/static/js/runtime-main.d5297837.js.map",
+    "static/js/2.fafc9c2b.chunk.js": "/onePlusHalf/react-router-plus/static/js/2.fafc9c2b.chunk.js",
+    "static/js/2.fafc9c2b.chunk.js.map": "/onePlusHalf/react-router-plus/static/js/2.fafc9c2b.chunk.js.map",
+    "index.html": "/onePlusHalf/react-router-plus/index.html",
+    "precache-manifest.10461cbc5f7383aa5d63cc9a20d49eca.js": "/onePlusHalf/react-router-plus/precache-manifest.10461cbc5f7383aa5d63cc9a20d49eca.js",
+    "service-worker.js": "/onePlusHalf/react-router-plus/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/onePlusHalf/react-router-plus/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.fafc9c2b.chunk.js.LICENSE.txt": "/onePlusHalf/react-router-plus/static/js/2.fafc9c2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c201db24.js",
+    "static/js/runtime-main.d5297837.js",
     "static/js/2.fafc9c2b.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.56dc1972.chunk.js"
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.dacf3515.chunk.js"
   ]
 }
